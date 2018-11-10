@@ -7,7 +7,7 @@ This site hosts documentation for developers who are looking to
 integrate khalti as a payment option in their e-commerce platform.
 If you fall into that category, please keep reading.
 
-With Khalti SDK/API, you can accepts payments from:
+With Khalti SDK/API, you can accept payments from:
 
 1. Khalti users.
 2. eBanking users of our partner banks.
